@@ -1,0 +1,7 @@
+This is a test file.
+It contains multiple lines.
+The word TEST appears here.
+JavaScript is awesome!
+This line has the word test in lowercase.
+Another line with JavaScript keyword.
+Final line without the search term.
